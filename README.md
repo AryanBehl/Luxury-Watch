@@ -50,6 +50,33 @@ horologium/
 
 ---
 
+## ▶️ How to Run
+
+1. Clone the repository
+
+```
+git clone https://github.com/your-username/horologium.git
+```
+
+2. Open the project folder
+
+3. Run the project
+   👉 Open `index.html` in your browser
+
+---
+
+## 📸 Preview
+
+(Add screenshot of UI here)
+
+---
+
+## 🌐 Live Demo
+
+(Add GitHub Pages link here)
+
+---
+
 ## 🔥 Unique Concept
 
 This project is inspired by:
